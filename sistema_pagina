@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Información</title>
+</head>
+<body>
+    <h1>Información Académica</h1>
+    <p><strong>Carrera:</strong> Ing. en Lic. en Tec. de la Info. e Innovación Digital</p>
+    <p><strong>Grado:</strong> 2°C</p>
+    <p><strong>Nombre:</strong> Yasmin Afrodita Castellanos Peres</p>
+</body>
+</html>
